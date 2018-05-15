@@ -3,7 +3,7 @@ title:              Os Pequenos Gualdins
 bio:
 description:
 locale:             pt_PT
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "pequenosgualdins.github.io"
 url: "" # the base hostname & protocol for your site
 
 defaults:
