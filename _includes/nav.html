@@ -1,0 +1,4 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Página Inicial</a></li>
+  <li class="{% if page.url contains '/sobre/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">Sobre</a></li>
+</ul>
