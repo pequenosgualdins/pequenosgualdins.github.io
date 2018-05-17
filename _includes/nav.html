@@ -2,6 +2,7 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Página Inicial</a></li>
   <li class="{% if page.url contains '/sobre/' %} active {% endif %}"><a href="{{ "/sobre/" | absolute_url }}">Sobre</a></li>
   <li class="{% if page.url contains '/faqs/' %} active {% endif %}"><a href="{{ "/faqs/" | absolute_url }}">FAQs</a></li>
+  <li class="{% if page.url contains '/regulamento/' %} active {% endif %}"><a href="{{ "/regulamento/" | absolute_url }}">Regulamento</a></li>
 </ul>
 
 <ul id="social">
