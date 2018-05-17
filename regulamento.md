@@ -80,7 +80,7 @@ A mensalidade é baseada no mesmo sistema da creche e jardim de infância, ou se
 
 <img src="http://latex.codecogs.com/gif.latex?RP&space;=&space;\frac{RF-D}{N}" title="RP = \frac{RF-D}{N}" style="width: 10%; margin: 0 auto; display: block" />
 
-Sendo: RP – Rendimento “per capita” RF -Rendimento mensal ilíquido do agregado familiar D – Despesas fixas N – Número de elementos do agregado familiar. Nas tabelas x,x,x encontram-se respetivamente as mensalidades para a creche e jardim de infância, as mensalidades para Os pequenos Gualdins e as mensalidades para a creche jardim de infância combinada Os pequenos Gualinds com desconto de 14% a 16% por estar inscrito nos dois.
+Sendo: RP – Rendimento “per capita” RF -Rendimento mensal ilíquido do agregado familiar D – Despesas fixas N – Número de elementos do agregado familiar. Nas tabelas 1, 2, 3 encontram-se respetivamente as mensalidades para a creche e jardim de infância, as mensalidades para Os pequenos Gualdins e as mensalidades para a creche jardim de infância combinada Os pequenos Gualinds com desconto de 14% a 16% por estar inscrito nos dois.
 
 Com tal prepósito, deve-se apresentar os seguintes documentos:
 
@@ -96,6 +96,8 @@ e) Documento de despesa com aquisição de medicamentos de uso continuado por mo
 
 f) Documento dos encargos médios mensais com transportes públicos.
 
+<p style="font-size: 16px"><strong>- Tabela 1</strong></p>
+
 | Escalão | Rendimento per capita | Mensalidade |
 |--|--|--|--|
 | 1 | Até 167,10€ | 63,50€ |
@@ -104,3 +106,25 @@ f) Documento dos encargos médios mensais com transportes públicos.
 | 4 | De 389,91€ a 557,00€ | 155,96€ - 222,80€ |
 | 5 | De 557,00€ a 835,50€ | 228,37€ - 342,56€ |
 | 6 | Mais de 835,50€ | 342,56€ |
+
+<p style="font-size: 16px"><strong>- Tabela 2</strong></p>
+
+| Escalão | Rendimento per capita | Mensalidade |
+|--|--|--|--|
+| 1 | Até 167,10€ | 40,11€ |
+| 2 | De 167,11€ a 278,50€ | 40,11€ - 66,90€ |
+| 3 | De 278,51€ a 389,90€ | 69,63€ - 97,48€ |
+| 4 | De 389,91€ a 557,00€ | 101,37€ - 144,82€ |
+| 5 | De 557,00€ a 835,50€ | 150,39€ - 225,59€ |
+| 6 | Mais de 835,50€ | 225,59€ |
+
+<p style="font-size: 16px"><strong>- Tabela 3</strong></p>
+
+| Escalão | Rendimento per capita | Mensalidade |
+|--|--|--|--|
+| 1 | Até 167,10€ | 80,22€ |
+| 2 | De 167,11€ a 278,50€ | 80,22€ - 133,68€ |
+| 3 | De 278,51€ a 389,90€ | 136,50€ - 191,06€ |
+| 4 | De 389,91€ a 557,00€ | 194,96€ - 278,80€ |
+| 5 | De 557,00€ a 835,50€ | 289,65€ - 426,105€ |
+| 6 | Mais de 835,50€ | 426,105€ |
