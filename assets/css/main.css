@@ -27,7 +27,7 @@
 	}
 
 	ol, ul {
-		list-style: none;
+		list-style: none !important;
 	}
 
 	blockquote, q {
